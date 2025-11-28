@@ -1,0 +1,28 @@
+# Virtual env
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Data or large files (optional — remove if you want to upload train_data)
+# data/
+# *.zip
+# *.csv
+
+# If you don't want to track the model file, add:
+# movie_genre_model.joblib
+
